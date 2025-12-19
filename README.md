@@ -8,4 +8,4 @@
 This contains everything you need to run your app locally.
 
 View your app Windows Classic Remastered
-: [[https://ai.studio/apps/drive/14E7EEvDI5zIeIUeSOvrYwukDdfsjo7B_]
+: https://ai.studio/apps/drive/14E7EEvDI5zIeIUeSOvrYwukDdfsjo7B_?fullscreenApplet=true
