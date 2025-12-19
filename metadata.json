@@ -1,0 +1,8 @@
+{
+  "name": "WinClassic Remastered",
+  "description": "A high-fidelity reimagining of the classic Windows user interface with modern glass effects, fluid animations, and integrated Gemini AI capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
