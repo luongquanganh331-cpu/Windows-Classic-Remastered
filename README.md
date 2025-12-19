@@ -7,15 +7,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/14E7EEvDI5zIeIUeSOvrYwukDdfsjo7B_
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+View your app Windows Classic Remastered
+: https://ai.studio/apps/drive/14E7EEvDI5zIeIUeSOvrYwukDdfsjo7B_
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
